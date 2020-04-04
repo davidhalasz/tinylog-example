@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90fd45e5-5018-4d18-844e-ad29214b1159" name="Default Changelist" comment="" />
+    <list default="true" id="90fd45e5-5018-4d18-844e-ad29214b1159" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/tinylog-example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/error.log" beforeDir="false" afterPath="$PROJECT_DIR$/error.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pkg/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pkg/Main.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +23,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -31,7 +40,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -75,26 +87,26 @@
       <screen x="2560" y="360" width="1920" height="1080" />
     </state>
     <state x="3020" y="454" key="#Project_Structure/2560.360.1920.1080/0.0.2560.1395@2560.360.1920.1080" timestamp="1586008920033" />
-    <state x="3255" y="522" key="FileChooserDialogImpl" timestamp="1586004174154">
+    <state x="3255" y="522" width="530" height="605" key="FileChooserDialogImpl" timestamp="1586012254708">
       <screen x="2560" y="360" width="1920" height="1080" />
     </state>
-    <state x="3255" y="522" key="FileChooserDialogImpl/2560.360.1920.1080/0.0.2560.1395@2560.360.1920.1080" timestamp="1586004174154" />
-    <state width="1864" height="299" key="GridCell.Tab.0.bottom" timestamp="1586010167810">
+    <state x="3255" y="522" width="530" height="605" key="FileChooserDialogImpl/2560.360.1920.1080/0.0.2560.1395@2560.360.1920.1080" timestamp="1586012254708" />
+    <state width="1864" height="333" key="GridCell.Tab.0.bottom" timestamp="1586012590579">
       <screen x="2560" y="360" width="1920" height="1080" />
     </state>
-    <state width="1864" height="299" key="GridCell.Tab.0.bottom/2560.360.1920.1080/0.0.2560.1395@2560.360.1920.1080" timestamp="1586010167810" />
-    <state width="1864" height="299" key="GridCell.Tab.0.center" timestamp="1586010167808">
+    <state width="1864" height="333" key="GridCell.Tab.0.bottom/2560.360.1920.1080/0.0.2560.1395@2560.360.1920.1080" timestamp="1586012590579" />
+    <state width="1864" height="333" key="GridCell.Tab.0.center" timestamp="1586012590579">
       <screen x="2560" y="360" width="1920" height="1080" />
     </state>
-    <state width="1864" height="299" key="GridCell.Tab.0.center/2560.360.1920.1080/0.0.2560.1395@2560.360.1920.1080" timestamp="1586010167808" />
-    <state width="1864" height="299" key="GridCell.Tab.0.left" timestamp="1586010167808">
+    <state width="1864" height="333" key="GridCell.Tab.0.center/2560.360.1920.1080/0.0.2560.1395@2560.360.1920.1080" timestamp="1586012590579" />
+    <state width="1864" height="333" key="GridCell.Tab.0.left" timestamp="1586012590579">
       <screen x="2560" y="360" width="1920" height="1080" />
     </state>
-    <state width="1864" height="299" key="GridCell.Tab.0.left/2560.360.1920.1080/0.0.2560.1395@2560.360.1920.1080" timestamp="1586010167808" />
-    <state width="1864" height="299" key="GridCell.Tab.0.right" timestamp="1586010167809">
+    <state width="1864" height="333" key="GridCell.Tab.0.left/2560.360.1920.1080/0.0.2560.1395@2560.360.1920.1080" timestamp="1586012590579" />
+    <state width="1864" height="333" key="GridCell.Tab.0.right" timestamp="1586012590579">
       <screen x="2560" y="360" width="1920" height="1080" />
     </state>
-    <state width="1864" height="299" key="GridCell.Tab.0.right/2560.360.1920.1080/0.0.2560.1395@2560.360.1920.1080" timestamp="1586010167809" />
+    <state width="1864" height="333" key="GridCell.Tab.0.right/2560.360.1920.1080/0.0.2560.1395@2560.360.1920.1080" timestamp="1586012590579" />
     <state x="1338" y="406" key="Maven.ArtifactSearchDialog" timestamp="1586003953791">
       <screen x="0" y="0" width="2560" height="1395" />
     </state>
